@@ -87,13 +87,14 @@ Informações institucionais, endereços, serviços e disponibilidade de materia
 
 Este projeto foi desenvolvido como atividade acadêmica com o objetivo de aplicar conhecimentos de desenvolvimento web, organização de interfaces, responsividade e acessibilidade.
 
-## 🔮 Melhorias futuras
+## 🔮 Links úteis
 
-- Publicar o site em uma plataforma de hospedagem.
-- Substituir os conteúdos ilustrativos por informações oficiais, quando disponíveis.
-- Aprimorar a experiência em dispositivos móveis.
-- Realizar testes de acessibilidade e usabilidade.
-- Expandir as informações sobre o acervo e os serviços da biblioteca.
+Vídeo Pitch
+https://www.youtube.com/watch?v=fh7zyl0bIEM
+
+Relatório
+[Relatório.pdf](https://github.com/user-attachments/files/33408032/Relatorio.pdf)
+
 
 ## 👨‍💻 Autor
 
